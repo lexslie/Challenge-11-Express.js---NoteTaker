@@ -1,6 +1,12 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title":"Day off",
+        "text":"Run errands",
+        "id": "1"
+    },
+    {
+        "title":"Vader's day",
+        "text":"hike + doggy park",
+        "id": "2"
     }
 ]
